@@ -1,6 +1,7 @@
 ![fortinet-fortisoar-public-repo-overview-page.png](https://github.com/fortinet-fortisoar/.github/blob/main/profile/fortinet-fortisoar-public-repo-overview-page.png)
 
-## Together, we and our communities are building some amazing **Solutions**, and there are excellent opportunities to get involved in it.
+## Join us!
+Our community is building amazing solutions with us! It's a great opportunity to contribute, learn new skills, and work on exciting projects. We welcome everyone with a passion for technology and a desire to make a difference.
 
 [FortiSOAR Content Hub](https://fortisoar.contenthub.fortinet.com/)
 
